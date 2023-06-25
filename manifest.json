@@ -1,10 +1,10 @@
 {
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"id": "Atampy26.Focus",
 	"name": "Focus",
 	"description": "Enables the Marksman perk on all weapons, allowing you to hold Shift to slow down time.",
 	"authors": ["Atampy26"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.0.0",
-	"updateCheck": "https://hitman-resources.netlify.app/framework/updates/Focus.json"
+	"frameworkVersion": "2.29.0",
+	"updateCheck": "https://github.com/atampy25/h3-focus/releases/latest/download/updates.json"
 }
